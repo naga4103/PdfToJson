@@ -1,0 +1,102 @@
+{
+    "data":[
+  {
+    "id": [1],
+    "nprStatusName": "Stock Issue",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up due to STOCK ISSUE.",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [2],
+    "nprStatusName": "Parcel Not Ready",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up due to <strong> Parcel Not Ready. </strong>",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [3],
+    "nprStatusName": "ODA Location",
+    "nprHeader": "This to inform you that below tracking Ids are not yet picked up because pincode belongs to <strong> ODA </strong> location and we will not be able to arrange pick up.",
+    "nprFooter": "Please cancel the same and book the new shipment with another courier partner.",
+    "sendEmail": true
+  },
+  {
+    "id": [4],
+    "nprStatusName": "Future Pickup Request",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up due to <strong> Future Pickup Request. </strong>",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [5],
+    "nprStatusName": "Cancel Pickup",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up due to <strong> Cancel Pickup </strong> request from your end.",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [6],
+    "nprStatusName": "Self Drop",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up due to <strong> Self drop Request. </strong>",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [7],
+    "nprStatusName": "Address Not found/Alternative",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up as <strong> Address was Not found/Alternative. </strong> ",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [8, 9, 10, 11, 12, 13, 14],
+    "nprStatusName": "Busy/Switch off/No response/Network Issue/Wrong No./DND/IVR no. (non-contactable)",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up as the given pickup contact number is <strong> Non contactable. </strong>",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [15],
+    "nprStatusName": "Shipper Unavailable",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up as <strong> Shipper was Unavailable. </strong>",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [16],
+    "nprStatusName": "Parcel Not Handover",
+    "nprHeader": "This is to inform you that below tracking Ids are not yet picked up as <strong> Parcel Was Not Handed Over. </strong>",
+    "nprFooter": "Please check and confirm us within 48hrs for further course of action, we will accordingly re -attempt/cancel the pickup.",
+    "sendEmail": true
+  },
+  {
+    "id": [17],
+    "nprStatusName": "No Pick-Up",
+    "nprHeader": "Kindly confirm that there is no pending pick up request against below mentioned docket number.",
+    "nprFooter": "In case of no confirmation from your end the docket number will be cancelled within 7 days.",
+    "sendEmail": true
+  },
+  {
+    "id": [23],
+    "nprStatusName": "Pick-Up Done",
+    "nprHeader": "This is to inform you that the scan is not updated against below mentioned docket number.",
+    "nprFooter": "We would request you to kindly share the signed manifest copy with us so that we can get the same updated from our end.",
+    "sendEmail": true
+  },
+  {
+    "id": [20],
+    "nprStatusName": "Partial Pick Up",
+    "nprHeader": "This is to bring to your kind notice that against below mentioned docket number only partial pick up is done.",
+    "nprFooter": "Kindly confirm the status of the rest of the shipment within 24 hours or else the same will be cancelled from our end.",
+    "sendEmail": true
+  },
+  {
+    "id": [21],
+    "nprStatusName": "Label Issue",
+    "nprHeader": "This is to inform you that as per the information received from pick up boy the pick-up is pending due to absence of the shipping label.",
+    "nprFooter": "Kindly ensure that the label is stick on the parcel for the successful pick up.",
+    "sendEmail": true
+  }
+    ]
+}
